@@ -2,7 +2,10 @@
 NYU Tandon, Management Science (MG-GY 6103), End Semester Project
 
 ## Project:
-
+The effective allocation of students to Capstone projects is crucial for fostering optimal learning
+experiences. In this project, we tackled this complex task through a combination of Integer
+Linear Programming (ILP) and Goal Programming (GP) techniques. Leveraging the power of the
+Gurobi solver, our approach aimed to balance student preferences and project requirements.
 
 
 ## Dataset:
